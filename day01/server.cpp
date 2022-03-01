@@ -4,7 +4,7 @@
 #include <cstring>
 #include <iostream>
 
-int maini()
+int main()
 {
     int sockfd = socket(AF_INET, SOCK_STREAM, 0);
 
